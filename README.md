@@ -2,7 +2,7 @@
 
 ## I'm an Analyst!
 
-![WechatIMG1](https://user-images.githubusercontent.com/49653689/94881614-eebae100-0433-11eb-9156-8a90d0efd2fd.jpeg)
+
 
 
 - 🔭  I’m currently working on Data Modeling.
