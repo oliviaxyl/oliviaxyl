@@ -3,6 +3,8 @@
 ## I'm an Analyst!
 
 
+![Test Image 1](/Users/olivia/Desktop/WechatIMG1.jpeg)
+
 
 - 🔭  I’m currently working on Data Modeling.
 - 🌱  I’m currently learning Language Models, SQL, A/B Testing.
