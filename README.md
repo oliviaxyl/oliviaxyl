@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on Data Modeling.
-- 🌱 I’m currently learning Language Models in NLP, practicing SQL, and reading A/B Testing (this is new to me 😄 ).
-- 👧 Pronouns: She/Her
-- ⚡ Fun fact: If not traveling 🌍 , I enjoy spending my free time exploring Data Science 📖 .
--->
+- 🔭  I’m currently working on Data Modeling.
+- 🌱  I’m currently learning Language Models in NLP, practicing SQL, and reading A/B Testing.
+- 😄  Pronouns: She/Her
+- ⚡   Fun fact: If not traveling 🌍 , I enjoy spending my free time exploring Data Science 📖 .
+
 
 👔 [linkedin][linkedin]
 
