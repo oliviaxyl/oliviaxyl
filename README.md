@@ -4,7 +4,6 @@
 
 - 🔭  I’m currently working on Data Modeling.
 - 🌱  I’m currently learning Language Models, SQL, A/B Testing.
-- 💜  About me: If not traveling 🌍 , I enjoy spending my free time exploring Data Science 📖 .
 
 👔 [linkedin][linkedin]
 
