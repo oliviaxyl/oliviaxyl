@@ -3,7 +3,7 @@
 ## I'm an Analyst!
 
 
-![Test Image 1](/Users/olivia/Desktop/WechatIMG1.jpeg)
+![Test Image 1](https://images.app.goo.gl/tA1Apna4WcXFjLAT8)
 
 
 - 🔭  I’m currently working on Data Modeling.
