@@ -3,7 +3,7 @@
 ## I'm an Analyst!
 
 - 🔭  I’m currently working on Data Modeling.
-- 🌱  I’m currently learning Language Models, SQL, A/B Testing.
+- 🌱  I’m currently learning NLP, SQL, A/B Testing, and Recommender System.
 - 💜  Fun Fact: Love traveling & reading Data Science.
 
 👔 [linkedin][linkedin]
