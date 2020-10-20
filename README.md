@@ -2,7 +2,7 @@
 
 ## I'm an Analyst!
 
-- 🔭  I’m currently working on Data Modeling.
+- 🔭  I’m intereted in on Data Modeling.
 - 🌱  I’m currently learning SQL and A/B Testing.
 - 💜  About Me: Love traveling & exploring Data Science.
 
