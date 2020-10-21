@@ -4,7 +4,7 @@
 
 - 🔭  I’m intereted in Data Modeling.
 - 🌱  I’m currently learning SQL, A/B Testing, Product & Case Studies.
-- 💜  About Me: Love traveling & exploring Data Science.
+- 💜  About Me: Love traveling & exploring Data Science. 
 
 👔 [linkedin][linkedin]
 
