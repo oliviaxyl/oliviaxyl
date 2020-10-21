@@ -8,6 +8,6 @@
 
 😊 &nbsp; Connect the dots!
 
-👔 [linkedin][linkedin]
+👔 &nbsp;[linkedin][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/xinyue-liu-237641169/
