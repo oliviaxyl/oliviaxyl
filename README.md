@@ -6,7 +6,7 @@
 - 🌱  I’m currently learning SQL, A/B Testing, and Product & Case Studies.
 - 💜  About Me: Love traveling & exploring Data Science. 
 
-Connect the dots!
+😊 Connect the dots!
 
 👔 [linkedin][linkedin]
 
