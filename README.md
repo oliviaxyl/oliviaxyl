@@ -3,7 +3,7 @@
 ## I'm an Analyst!
 
 - 🔭  &nbsp; I’m working on Data Modeling.
-- 🌱  &nbsp; I’m currently learning SQL, A/B Testing, and Product & Case Studies. 
+- 🌱  &nbsp; I’m currently learning Product & Case Studies. 
 - 💜  &nbsp; About Me: Love traveling & exploring Data Science. 
 
 👔 [linkedin][linkedin]
