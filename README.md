@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## I'm an Analyst!
+## I'm a data girl!
 
-- 🔭  &nbsp; I’m working on Data Modeling.
-- 🌱  &nbsp; I’m currently learning Product & Case Studies. 
+- 🌱  &nbsp; I’m currently having a job transition. 
+- 🔭  &nbsp; I’ll be working closely with management to excecute analytical initiatives. I'm responsible for sovling business problems by leveraging techniques such as segmentation, optimization, advanced analytics and machine learning. I also create reports and dashboards to closely monitor performance metrics and provide insights.
 - 💜  &nbsp; About Me: Love traveling & exploring Data Science. 
 
 👔 [linkedin][linkedin]
