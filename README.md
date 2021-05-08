@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a data girl!📖
+## I'm a data girl!👧
 
 - 🌱  &nbsp; I’m currently having a job transition. 
 - 💜  &nbsp; About Me: Love traveling & exploring Data Science in full-track. 
