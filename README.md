@@ -3,7 +3,7 @@
 ## I'm a data girl 👧
 
 - 🌱  &nbsp; I’m currently having a job transition. 
-- 💜  &nbsp; About Me: Love traveling & exploring Data Science in full-track. 
+- 💜  &nbsp; About Me: Love traveling & Enjoy exploring Data Science in full-track. 
 
 👔 [Linkedin][Linkedin] - Let's connect 🤝
  
